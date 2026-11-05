@@ -1,0 +1,2 @@
+# EconomyComics-HB-
+Ideia inicial 
