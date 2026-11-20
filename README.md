@@ -99,7 +99,7 @@ Only implemented and tested functionality is included in the submitted demonstra
 
 ## License
 
-[Specify the selected open-source license.]
+
 
 ## Acknowledgments
 
